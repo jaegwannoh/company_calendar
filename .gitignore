@@ -1,0 +1,5 @@
+# 실행하면 생기는 데이터/백업 (개인 일정이라 올리지 않음)
+harukong/data/
+harukong/backup/
+*.pyc
+__pycache__/
